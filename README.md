@@ -83,5 +83,5 @@ The robot successfully picks the cuboid and places it into the bowl smoothly wit
 ---
 
 ## 👨‍💻 Author
-
-Robotics Simulation Project using UR5 in CoppeliaSim
+Team Name : Debuggers
+Leader : Hitesh Rajpurohit
