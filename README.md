@@ -82,6 +82,9 @@ The robot successfully picks the cuboid and places it into the bowl smoothly wit
 
 ---
 
+## Simulation Demo
+https://youtu.be/P_COw3LUsKQ
+
 ## 👨‍💻 Author
 Team Name : Debuggers
 
