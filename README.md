@@ -1,4 +1,5 @@
 # UR5 Pick and Place using CoppeliaSim (Lua + IK)
+
 This project implements a pick and place robotic system using a UR5 robotic arm in CoppeliaSim.
 The robot picks a cuboid object and places it into a bowl using inverse kinematics (IK) and gripper control.
 
